@@ -1,0 +1,8 @@
+venv
+HandGifs
+__pycache__
+streamlit_player.py 
+streamlit_run.py
+test.py
+evaluation_fn.csv
+create_evaluation_fn.py
